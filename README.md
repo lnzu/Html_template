@@ -1,3 +1,3 @@
 # Html_template
 
-测试提交
+这是一个html快捷模板
