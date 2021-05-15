@@ -4,7 +4,7 @@ html {
 
 body {
   -webkit-text-size-adjust:none;
-  background-color: pink;
+  background-color: white;
 }
 
 @media all and (orientation:landscape){
